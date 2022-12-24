@@ -1,0 +1,21 @@
+.main-container{
+    display: inline-block;
+    justify-content: center;
+}
+
+.child-container{
+    outline: 5px solid black;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.child-maze{
+    outline: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: #00ff00;
+}

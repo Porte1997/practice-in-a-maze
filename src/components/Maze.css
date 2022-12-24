@@ -1,0 +1,47 @@
+.main-container{
+    display: inline-block;
+    justify-content: center;
+}
+
+.child-container{
+    outline: 5px solid black;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.child-maze{
+    outline: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: #19004b;
+}
+
+.btn-class{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.maze-button{
+    height: 50px;
+    width: 180px;
+    background-color: #19004b;
+    color: #ffff5e;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.maze-button:hover{
+    font-size: 18px;
+}
+
+.count-mazes{
+    font-size: 20px;
+    background-color: #19004b;
+    color: #ffff5e;
+    padding: 20px;
+    text-align: center;
+    margin-top: 25px;
+}

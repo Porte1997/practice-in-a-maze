@@ -1,0 +1,21 @@
+
+.red-color{
+    outline: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: #ff0000;
+}
+
+.green-color{
+    outline: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: #00ff00;
+}
+
+.white-color{
+    outline: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: #ffcbcb;
+}
